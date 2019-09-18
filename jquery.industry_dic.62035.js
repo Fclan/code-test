@@ -942,4 +942,4 @@ const industry_zp_json = [
         "Manufacture of Medical Equipment & Facilities"
     ]
 ]
-module.exports = { industry_dic_json, industry_lp_json ,industry_zp_json }
+module.exports = { industry_dic_json, industry_lp_json, industry_zp_json }
